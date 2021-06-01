@@ -7,7 +7,7 @@ Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/genestboost-feedstock/blob/master/LICENSE.txt)
 
-Summary: Generic estimator boosting
+Summary: General boosting framework for any regression estimator
 
 Development: https://github.com/btcross26/genestboost
 
