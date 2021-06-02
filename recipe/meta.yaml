@@ -1,5 +1,5 @@
 {% set name = "genestboost" %}
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/genestboost-{{ version }}.tar.gz
-  sha256: 797018cbf11f950d34186f586f3fe782db8f76365a00c992b251088749a17222
+  sha256: a466a4629146f9f36f7452fca922055b35596e456bfd646a9d007535a01641d4
 
 build:
   number: 0
